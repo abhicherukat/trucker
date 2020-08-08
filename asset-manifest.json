@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/trucker/static/css/main.fcfd7f9e.chunk.css",
+    "main.js": "/trucker/static/js/main.e6b49fff.chunk.js",
+    "main.js.map": "/trucker/static/js/main.e6b49fff.chunk.js.map",
+    "runtime-main.js": "/trucker/static/js/runtime-main.7bd6db55.js",
+    "runtime-main.js.map": "/trucker/static/js/runtime-main.7bd6db55.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/trucker/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.fe6d7cf8.chunk.js": "/trucker/static/js/2.fe6d7cf8.chunk.js",
+    "static/js/2.fe6d7cf8.chunk.js.map": "/trucker/static/js/2.fe6d7cf8.chunk.js.map",
+    "index.html": "/trucker/index.html",
+    "precache-manifest.a2a7a819b449bfa59810370dd47b4b68.js": "/trucker/precache-manifest.a2a7a819b449bfa59810370dd47b4b68.js",
+    "service-worker.js": "/trucker/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/trucker/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.fcfd7f9e.chunk.css.map": "/trucker/static/css/main.fcfd7f9e.chunk.css.map",
+    "static/js/2.fe6d7cf8.chunk.js.LICENSE.txt": "/trucker/static/js/2.fe6d7cf8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7bd6db55.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.fe6d7cf8.chunk.js",
+    "static/css/main.fcfd7f9e.chunk.css",
+    "static/js/main.e6b49fff.chunk.js"
+  ]
+}
